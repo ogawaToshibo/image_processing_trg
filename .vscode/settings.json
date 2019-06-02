@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "image_processing/bin/python"
+    "python.pythonPath": "image_processing/bin/python",
+    "git.ignoreLimitWarning": true
 }
